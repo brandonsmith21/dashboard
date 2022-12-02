@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8E0D21DC-4578-1FBD-5F96-5973E294971A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Graph And Chart - Lite Edition/Script/CustomChartPointer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/dashboard.cs" Line="44" Column="79" />
+      <File FileName="Assets/Scripts/tab.cs" Line="47" Column="10" />
+      <File FileName="Assets/Scripts/back.cs" Line="16" Column="59" />
+      <File FileName="Assets/Graph And Chart - Lite Edition/Script/CustomChartPointer.cs" Line="22" Column="34" />
+      <File FileName="Assets/Graph And Chart - Lite Edition/Script/RadarChart/CanvasRadarChart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f3917eb-1f13-4168-a3ca-ce3cc1d390bc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

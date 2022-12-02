@@ -1,0 +1,9 @@
+You have 3 templates to use the script, it's very simple.
+You can use the screen scale to make it responsive
+
+1 - Update all the time, this is not recommended, it can consume a lot of fps.
+2 - Refresh from seconds to seconds. Consumes less memory resources, but is not recommended yet.
+3 - Update Only when player changes screen settings.is the most recommended, all the code will only be qualified when the player 
+changes the settings and in the pauser menu, however it requires you to implement a settings menu
+
+Use the example scene to understand how the code works.
